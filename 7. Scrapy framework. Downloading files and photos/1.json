@@ -1,0 +1,281 @@
+[
+  {
+    "Division": "Atlantic Division",
+    "RK": "1",
+    "Team": "Boston Kodiaks",
+    "W": "48.5",
+    "L": "18.8",
+    "OL": "14.7",
+    "PTS": "111.6"
+  },
+  {
+    "Division": "Atlantic Division",
+    "RK": "2",
+    "Team": "Tampa Bay Thunder",
+    "W": "50.2",
+    "L": "24.1",
+    "OL": "7.7",
+    "PTS": "108.1"
+  },
+  {
+    "Division": "Atlantic Division",
+    "RK": "3",
+    "Team": "Florida Jaguars",
+    "W": "44.5",
+    "L": "28.3",
+    "OL": "9.2",
+    "PTS": "98.2"
+  },
+  {
+    "Division": "Atlantic Division",
+    "RK": "4",
+    "Team": "Toronto Pine Needles",
+    "W": "42.5",
+    "L": "29.4",
+    "OL": "10.1",
+    "PTS": "95.1"
+  },
+  {
+    "Division": "Atlantic Division",
+    "RK": "5",
+    "Team": "Montreal Quebecers",
+    "W": "38.8",
+    "L": "33.1",
+    "OL": "10.1",
+    "PTS": "87.8"
+  },
+  {
+    "Division": "Atlantic Division",
+    "RK": "6",
+    "Team": "Buffalo Knives",
+    "W": "36.0",
+    "L": "34.5",
+    "OL": "11.5",
+    "PTS": "83.4"
+  },
+  {
+    "Division": "Atlantic Division",
+    "RK": "7",
+    "Team": "Ottawa Legislators",
+    "W": "29.9",
+    "L": "37.4",
+    "OL": "14.7",
+    "PTS": "74.5"
+  },
+  {
+    "Division": "Atlantic Division",
+    "RK": "8",
+    "Team": "Detroit Carmine Feathers",
+    "W": "21.7",
+    "L": "52.1",
+    "OL": "8.2",
+    "PTS": "51.6"
+  },
+  {
+    "Division": "Metropolitan Division",
+    "RK": "1",
+    "Team": "Washington Investments",
+    "W": "51.9",
+    "L": "22.3",
+    "OL": "7.8",
+    "PTS": "111.6"
+  },
+  {
+    "Division": "Metropolitan Division",
+    "RK": "2",
+    "Team": "Pittsburgh Puffins",
+    "W": "49.1",
+    "L": "24.9",
+    "OL": "8.0",
+    "PTS": "106.2"
+  },
+  {
+    "Division": "Metropolitan Division",
+    "RK": "3",
+    "Team": "New York Indwellers",
+    "W": "46.5",
+    "L": "26.2",
+    "OL": "9.3",
+    "PTS": "102.3"
+  },
+  {
+    "Division": "Metropolitan Division",
+    "RK": "4",
+    "Team": "Columbus Navy Coats",
+    "W": "43.0",
+    "L": "26.7",
+    "OL": "12.3",
+    "PTS": "98.3"
+  },
+  {
+    "Division": "Metropolitan Division",
+    "RK": "5",
+    "Team": "Carolina Cyclones",
+    "W": "45.9",
+    "L": "30.0",
+    "OL": "6.1",
+    "PTS": "97.9"
+  },
+  {
+    "Division": "Metropolitan Division",
+    "RK": "6",
+    "Team": "Philadelphia Travellers",
+    "W": "43.1",
+    "L": "28.8",
+    "OL": "10.1",
+    "PTS": "96.3"
+  },
+  {
+    "Division": "Metropolitan Division",
+    "RK": "7",
+    "Team": "New York Officials",
+    "W": "40.5",
+    "L": "34.0",
+    "OL": "7.5",
+    "PTS": "88.5"
+  },
+  {
+    "Division": "Metropolitan Division",
+    "RK": "8",
+    "Team": "New Jersey Demons",
+    "W": "31.9",
+    "L": "36.3",
+    "OL": "13.8",
+    "PTS": "77.6"
+  },
+  {
+    "Division": "Central Division",
+    "RK": "1",
+    "Team": "St. Louis Doldrums",
+    "W": "46.6",
+    "L": "24.6",
+    "OL": "10.8",
+    "PTS": "104.1"
+  },
+  {
+    "Division": "Central Division",
+    "RK": "2",
+    "Team": "Colorado Landslide",
+    "W": "47.3",
+    "L": "25.8",
+    "OL": "8.9",
+    "PTS": "103.5"
+  },
+  {
+    "Division": "Central Division",
+    "RK": "3",
+    "Team": "Dallas Celebrities",
+    "W": "44.8",
+    "L": "28.9",
+    "OL": "8.3",
+    "PTS": "97.9"
+  },
+  {
+    "Division": "Central Division",
+    "RK": "4",
+    "Team": "Nashville Carnivores",
+    "W": "40.2",
+    "L": "31.4",
+    "OL": "10.4",
+    "PTS": "90.7"
+  },
+  {
+    "Division": "Central Division",
+    "RK": "5",
+    "Team": "Winnipeg Airplanes",
+    "W": "40.4",
+    "L": "33.4",
+    "OL": "8.2",
+    "PTS": "89.0"
+  },
+  {
+    "Division": "Central Division",
+    "RK": "6",
+    "Team": "Chicago Greyfalcons",
+    "W": "38.9",
+    "L": "31.9",
+    "OL": "11.2",
+    "PTS": "89.0"
+  },
+  {
+    "Division": "Central Division",
+    "RK": "7",
+    "Team": "Minnesota Savage",
+    "W": "39.0",
+    "L": "33.6",
+    "OL": "9.4",
+    "PTS": "87.4"
+  },
+  {
+    "Division": "Pacific Division",
+    "RK": "1",
+    "Team": "Vancouver Whales",
+    "W": "44.1",
+    "L": "29.8",
+    "OL": "8.0",
+    "PTS": "96.3"
+  },
+  {
+    "Division": "Pacific Division",
+    "RK": "2",
+    "Team": "Edmonton Workers",
+    "W": "41.9",
+    "L": "30.8",
+    "OL": "9.3",
+    "PTS": "93.1"
+  },
+  {
+    "Division": "Pacific Division",
+    "RK": "3",
+    "Team": "Vegas Shining Templars",
+    "W": "41.6",
+    "L": "30.6",
+    "OL": "9.8",
+    "PTS": "92.9"
+  },
+  {
+    "Division": "Pacific Division",
+    "RK": "4",
+    "Team": "Arizona Dingos",
+    "W": "40.1",
+    "L": "32.0",
+    "OL": "10.0",
+    "PTS": "90.1"
+  },
+  {
+    "Division": "Pacific Division",
+    "RK": "5",
+    "Team": "Calgary Flares",
+    "W": "39.9",
+    "L": "32.9",
+    "OL": "9.2",
+    "PTS": "89.1"
+  },
+  {
+    "Division": "Pacific Division",
+    "RK": "6",
+    "Team": "San Jose Charlatans",
+    "W": "36.0",
+    "L": "38.6",
+    "OL": "7.4",
+    "PTS": "79.4"
+  },
+  {
+    "Division": "Pacific Division",
+    "RK": "7",
+    "Team": "Anaheim Mallards",
+    "W": "35.1",
+    "L": "37.5",
+    "OL": "9.4",
+    "PTS": "79.6"
+  },
+  {
+    "Division": "Pacific Division",
+    "RK": "8",
+    "Team": "Los Angeles Monarchs",
+    "W": "31.0",
+    "L": "42.6",
+    "OL": "8.4",
+    "PTS": "70.5"
+  }
+]
